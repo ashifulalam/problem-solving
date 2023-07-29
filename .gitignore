@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+
+#CPP
+*.idea/
+*CMakeLists.txt
+*cmake-build-debug/
