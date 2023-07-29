@@ -241,3 +241,10 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,c++,java,linux,windows
+
+
+#CPP Trash files
+*.name
+*.xml
+*.iml
+*
