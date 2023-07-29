@@ -103,6 +103,7 @@ dist
 # TernJS port file
 .tern-port
 
+<<<<<<< HEAD
 # Created by https://www.toptal.com/developers/gitignore/api/macos,c++,java,linux,windows
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,c++,java,linux,windows
 
@@ -248,3 +249,10 @@ $RECYCLE.BIN/
 *.xml
 *.iml
 *
+=======
+
+#CPP
+*.idea/
+*CMakeLists.txt
+*cmake-build-debug/
+>>>>>>> cpp
