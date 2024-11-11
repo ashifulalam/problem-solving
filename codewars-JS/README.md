@@ -1,7 +1,10 @@
-# Problem List
+# JavaScript Interview Problem Solutions
+
+>This directory contains solutions to various problems I solved during preparation for a JavaScript interview.
+
 
 | Problem Number | Short Description       | Problem URL               |
 |--|-------------------------|---------------------------|
-|7 |Calculate total hotdog cost based on quantity pricing|https://shorturl.at/8Mht2|
+|7|Calculate total hotdog cost based on quantity pricing.|https://shorturl.at/8Mht2|
+|8|Return the number of days in a month using a switch for cases.|https://shorturl.at/9iK9v|
 ||||
-
