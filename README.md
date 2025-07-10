@@ -23,7 +23,7 @@
 </td>
 <td width="300">
 
-<img src="https://chart.googleapis.com/chart?cht=p&chs=200x200&chd=t:100&chl=100%25&chco=22c55e&chf=bg,s,ffffff00" alt="Problems Distribution">
+<img src="https://quickchart.io/chart?width=200&height=200&c={type:'pie',data:{datasets:[{data:[100],backgroundColor:['%2322c55e']}]}}" alt="Problems Distribution">
 
 </td>
 </tr>
@@ -54,20 +54,6 @@ problem url:
 difficulty: easy / medium / hard
 Languages Solved: C++, JavaScript
 
-HOW TO UPDATE PIE CHART:
-When you solve problems, update the mermaid pie chart with actual numbers:
-Example for 1 Easy, 2 Medium, 1 Hard:
-```mermaid
-pie title Problems Solved by Difficulty
-    "Easy" : 1
-    "Medium" : 2
-    "Hard" : 1
-```
-
-And update percentages:
-- Easy: 25% (1/4)
-- Medium: 50% (2/4)  
-- Hard: 25% (1/4)
 
 Copy the format above when you solve a new problem and paste it to update the README!
 -->
