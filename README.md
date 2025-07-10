@@ -29,8 +29,8 @@
 
 ## Directory Structure
 
-- `leetCode/C++/` - C++ solutions
-- `leetCode/javascript/` - JavaScript solutions
+- [`leetCode/C++/`](https://github.com/ashifulalam/problem-solving/tree/master/leetCode/C%2B%2B) - C++ solutions
+- [`leetCode/javascript/`](https://github.com/ashifulalam/problem-solving/tree/master/leetCode/javascript) - JavaScript solutions
 
 <!--
 TEMPLATE FOR ADDING NEW PROBLEMS (Only visible in edit mode):
