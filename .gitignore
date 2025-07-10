@@ -255,3 +255,7 @@ $RECYCLE.BIN/
 *CMakeLists.txt
 *cmake-build-debug/
 >>>>>>> cpp
+
+# VS Code configuration files
+.vscode/launch.json
+.vscode/tasks.json
